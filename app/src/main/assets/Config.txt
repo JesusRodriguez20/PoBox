@@ -1,0 +1,4 @@
+ApiUrl=>http://stgpobox.controlbox.net:8843/APIZaicargo/api
+LogoUrl=>http://stg3.controlbox.net/zaicargo/app/images/Cientes/zai.gif
+ResponseUrlPSE=>http://stg3.controlbox.net/zaicargo/pobox/Pobox/ConfirmationPayment.html
+ConfirmationUrlCash=>http://stgpobox.controlbox.net:8843/APIZaicargo/api/ResponseCashPayment.aspx
